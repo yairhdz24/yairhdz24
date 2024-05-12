@@ -1,48 +1,40 @@
+## ⚡About me:
 
 
-<img align="left" height="107" src="https://media.discordapp.net/attachments/890059315967316068/1157803951484317848/yo1.jpeg?ex=6519f074&is=65189ef4&hm=1055a493fe2f6b69fd5edccbf798f5a84708a27fe09b5ab3b2a4f28ca9b9b276&=&width=483&height=505" style="border-radius:50%;" />
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=29F727&center=true&vCenter=true&random=false&width=435&lines=Yair+Hernandez+Ochoa;Software+Developer;Hacker+de+a+peso" alt="Typing SVG" /></a>
+
+✨Hi!, I’m Yair and... </br>
+⚡ I’m currently working on my happiness :D </br>
+👨🏻‍💻 I am studying an engineering degree in computer science
+</div>
 
 
-<h2 align="left">Software developer in progress 🚀 <br>Hi 👋! My name is Yair Hdz, and I'm  Computer Engineering Student 🎓 Passionate about technology and code 💻.</h2>
+<h2 >🛠️ Languages, Frameworks and Tools:</h2>
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,react,tailwind,html,css,vite,linux,nodejs,postgres&perline=15" alt="My Skills" />
+  </a>
+</div>
 
+
+
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yairhdz24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yairhdz24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 </div>
 
 
 <hr style="border: 2px solid #333; margin: 20px 0;">
 
+## Social Media
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/yair-hern%C3%A1ndez-664161164/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor" style="border-radius: 50%;" height="35" alt="LinkedIn" />
   </a>
-  <a href="yairhdz107@gmail.com" target="_blank">
+  <a href="mailto:yairhdz107@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor" style="border-radius: 50%;" height="35" alt="Gmail" />
   </a>
   <a href="https://twitter.com/yair_hdz24" target="_blank">
@@ -56,9 +48,4 @@
   </a>
 </div>
 
-###
-
-
-
-
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
